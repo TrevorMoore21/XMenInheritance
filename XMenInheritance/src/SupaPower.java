@@ -1,5 +1,5 @@
 
-public class SuperPower
+public class SupaPower
 	{
 
 		public void famous()

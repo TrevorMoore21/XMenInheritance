@@ -1,5 +1,5 @@
 
-public class Speed extends SuperPower
+public class Speed extends SupaPower
 	{
 
 		public void runFast()

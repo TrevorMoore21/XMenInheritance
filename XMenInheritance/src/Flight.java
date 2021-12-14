@@ -1,5 +1,5 @@
 
-public class Flight extends SuperPower
+public class Flight extends SupaPower
 	{
 
 		public void flying()
