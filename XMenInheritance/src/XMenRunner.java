@@ -7,10 +7,11 @@ public class XMenRunner
 				SupaPower a = new SupaPower();
 				SupaPower b = new Speed();
 				SupaPower c = new Flight();
-				Speed d = new SupaPower();
-				Speed e = new Speed();
-				
+				Speed d = new Speed();
+				Flight e = new Flight();
 						
+				System.out.println("Choose the right answer");
+				
 				
 
 			}
