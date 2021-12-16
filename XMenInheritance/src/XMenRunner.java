@@ -10,7 +10,7 @@ public class XMenRunner
 				Speed d = new Speed();
 				Flight e = new Flight();
 						
-				System.out.println("Choose the right answer");
+				System.out.println("Choose the right answer:");
 				
 				Quizz.question1();
 				Quizz.question2();
