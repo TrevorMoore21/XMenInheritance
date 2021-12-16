@@ -346,7 +346,7 @@ public class Quizz
 				else
 					{
 						System.out.println("Answer 3 was the right answer");
-						System.out.println("You have " + strike45 + " out of " + qNum + " correct");
+						System.out.println("Congratulations, you got " + strike45 + " out of " + qNum + " correct");
 					}
 				System.out.println();
 			}
